@@ -65,3 +65,4 @@ read -rp "[?] Delete Docker stack directory at $STACK_DIR? [y/N]: " delstack
 
 echo
 echo "✅ Plex uninstall complete. Media files were not altered unless explicitly confirmed."
+
